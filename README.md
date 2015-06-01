@@ -17,4 +17,16 @@ Tools:
 Programming Language:
 - Groovy: http://www.groovy-lang.org/
 
+Github CI:
+- Travis CI: https://travis-ci.org/
+- Circle CI: https://circleci.com/
+- drone.io: https://drone.io
+- semaphore: https://semaphoreci.com
+
+Github Code Coverage:
+- coveralls.io: https://coveralls.io
+- codecov.io: https://codecov.io
+
+
+
 
