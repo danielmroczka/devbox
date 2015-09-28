@@ -1,8 +1,7 @@
 Some links to websites related to software development
 
 Dev:
-- http://start.spring.io/
-- 
+- Spring Framework: http://start.spring.io/
 
 Test unit:
 - JUnit: http://junit.org
@@ -13,6 +12,10 @@ Mock tests:
 
 Other test:
 - Mutation test: http://pitest.org/
+- Fest: https://code.google.com/p/fest/
+- AssertJ: http://joel-costigliola.github.io/assertj
+- Hamcrest: http://hamcrest.org/
+- Google truth: https://github.com/google/truth
 
 Logging:
 - Logback: http://logback.qos.ch
