@@ -48,6 +48,11 @@ RaspberryPi/IoT:
 - http://dweet.io/
 - http://freeboard.io/
 
+Hosting:
+- https://mongolab.com/
+
+Other:
+- http://www.programmableweb.com/ List of API
 
 
 
