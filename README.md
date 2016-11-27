@@ -12,7 +12,6 @@ Mock tests:
 
 Android testing tools:
 - Robolectric: http://robolectric.org/
-- 
 
 Other test:
 - Mutation test: http://pitest.org/
@@ -53,6 +52,18 @@ Hosting:
 
 Other:
 - http://www.programmableweb.com/ List of API
+
+Web tools:
+- http://codepen.io/ CodePen
+- https://jsfiddle.net/ jsfiddle
+- https://plnkr.co/ Plunker
+- http://jsbin.com jsbin
+- http://ideone.com/ ideone
+- http://kodtest.com/
+- http://liveweave.com/
+- http://www.cssdesk.com/
+- http://cssdeck.com/
+- http://codenvy.io/
 
 
 
