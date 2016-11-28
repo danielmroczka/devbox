@@ -52,6 +52,8 @@ Hosting:
 
 Other:
 - http://www.programmableweb.com/ List of API
+- http://www.freeformatter.com/ JSON/HTML/XML/SQL Formatter + Validators + Converters
+- http://devdocs.io/ 
 
 Web tools:
 - http://codepen.io/ CodePen
