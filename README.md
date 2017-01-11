@@ -66,7 +66,9 @@ Web tools:
 - http://www.cssdesk.com/
 - http://cssdeck.com/
 - http://codenvy.io/
+- https://repl.it
 
-
+Project Management:
+- http://trello.com
 
 
